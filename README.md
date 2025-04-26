@@ -43,7 +43,7 @@ You can download or clone this repository. If you want to download, you can clic
 ```bash
 git clone https://github.com/SltnBM/to-do-app-web-storage.git
 cd to-do-app-web-storage
-
+```
 
 ### Running apps
 ```bash
