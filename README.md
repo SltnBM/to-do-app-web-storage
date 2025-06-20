@@ -31,4 +31,4 @@ cd to-do-app-web-storage
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sultan%20Badra-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/sultan-badra)
 
 ## 📄 License
-Free to use for personal and educational purposes.
+Feel free to use this project for personal or educational purposes.
