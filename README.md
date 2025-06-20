@@ -26,3 +26,9 @@ cd to-do-app-web-storage
 ```
 3. Open the index.html file in your browser
 4. Tasks will be saved automatically using localStorage
+
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sultan%20Badra-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/sultan-badra)
+
+## License
+Free to use for personal and educational purposes.
